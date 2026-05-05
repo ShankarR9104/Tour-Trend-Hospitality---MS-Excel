@@ -20,6 +20,7 @@ To analyze data from major tourist destinations across India and uncover key tou
 7. What are the total bookings recorded for each tourist destination?
 ## Dashboard
 <img width="406" height="677" alt="overall dashboard" src="https://github.com/user-attachments/assets/e093dedf-1d7d-4dd4-ac53-e13a0408d088" />
+
 ## Tools & Technologies Used
 - Microsoft Excel  
 - Pivot Tables  
