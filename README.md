@@ -3,6 +3,13 @@
 To analyze data from major tourist destinations across India and uncover key tourism patterns, visitor trends, regional performance, and strategic insights through data-driven analysis. This project uses MS Excel to transform tourism destination data into meaningful insights that help understand travel trends, destination popularity, and tourism performance across different regions of India.
 ## Dataset Used
 - Dataset : https://docs.google.com/spreadsheets/d/1prvtPmB4KueIjDc4ZjguP-OixpBm77mb/edit?usp=sharing&ouid=106646047431533183220&rtpof=true&sd=true
+## Features
+- Data Cleaning & Preprocessing  
+- Pivot Tables & Pivot Charts  
+- Interactive Dashboard Design  
+- Hospitality Trend Analysis  
+- KPI Monitoring  
+- Conditional Formatting
 ## Questions (KPIs)
 1. What are the top 3 most popular tourist destinations based on total bookings?  
 2. How does travel cost vary across different seasons?  
@@ -11,13 +18,8 @@ To analyze data from major tourist destinations across India and uncover key tou
 5. What is the average trip duration for tourists across different cities?  
 6. Which modes of travel are most preferred by tourists for different destinations?  
 7. What are the total bookings recorded for each tourist destination?
-## Features
-- Data Cleaning & Preprocessing  
-- Pivot Tables & Pivot Charts  
-- Interactive Dashboard Design  
-- Hospitality Trend Analysis  
-- KPI Monitoring  
-- Conditional Formatting
+## Dashboard
+<img width="406" height="677" alt="overall dashboard" src="https://github.com/user-attachments/assets/e093dedf-1d7d-4dd4-ac53-e13a0408d088" />
 ## Tools & Technologies Used
 - Microsoft Excel  
 - Pivot Tables  
