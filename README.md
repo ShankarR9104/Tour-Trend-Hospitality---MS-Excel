@@ -1,2 +1,4 @@
-# Tour-Trend-Hospitality---MS-Excel
-An interactive MS Excel project designed to analyze tourism and hospitality trends through data visualization, KPI tracking, automated reporting, and business insights. This project leverages Excel formulas, charts and pivot tables to provide meaningful hospitality performance analysis.
+# Tour-Trend-Hospitality---Dashboard# 
+
+## Objective
+To analyze data from major tourist destinations across India and uncover key tourism patterns, visitor trends, regional performance, and strategic insights through data-driven analysis. This project uses MS Excel to transform tourism destination data into meaningful insights that help understand travel trends, destination popularity, and tourism performance across different regions of India.
