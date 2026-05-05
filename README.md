@@ -11,3 +11,20 @@ To analyze data from major tourist destinations across India and uncover key tou
 5. What is the average trip duration for tourists across different cities?  
 6. Which modes of travel are most preferred by tourists for different destinations?  
 7. What are the total bookings recorded for each tourist destination?
+## Features
+- Data Cleaning & Preprocessing  
+- Pivot Tables & Pivot Charts  
+- Interactive Dashboard Design  
+- Hospitality Trend Analysis  
+- KPI Monitoring  
+- Conditional Formatting
+## Tools & Technologies Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Excel Formulas  
+- Conditional Formatting
+## Conclusion 📈
+
+The India Tourism Trends Analysis Dashboard provides a comprehensive view of tourism patterns across major destinations in India by transforming raw travel data into actionable insights. Through destination popularity, seasonal cost trends, package preferences, guide analysis, travel modes, trip duration, and booking distribution, this project helps identify key factors influencing tourist behavior.
+The analysis supports smarter decision-making for travelers, tourism businesses, and planners by highlighting high-demand destinations, cost-effective travel periods, and customer preferences. Overall, this dashboard demonstrates how data analytics can be effectively used to understand and optimize India’s tourism ecosystem.
